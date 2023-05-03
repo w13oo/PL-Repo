@@ -5,4 +5,7 @@
 系級：科技系二年級
 # 課程筆記區
 # 作業連結區
+[HW1](https://github.com/w13oo/PL-Repo/tree/main/HW1)
+[HW2](https://github.com/w13oo/PL-Repo/blob/main/HW2.ipynb)
+[HW3](https://github.com/w13oo/PL-Repo/blob/main/HW3.ipynb)
 # 專題連結區
